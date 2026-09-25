@@ -1,0 +1,12 @@
+AURA Knowledge Test Document
+
+AURA is an autonomous research and reasoning agent designed to understand goals, create execution plans, retrieve relevant knowledge, use tools, and synthesize evidence.
+
+The three core capabilities described in this document are:
+1. Planning: AURA decomposes a user goal into practical execution steps.
+2. Knowledge Retrieval: AURA searches its private document knowledge base using semantic similarity.
+3. Evidence Synthesis: AURA combines retrieved information and reasoning to produce a clear answer.
+
+AURA should identify when private documents are relevant and should not invent information that is absent from those documents.
+
+This document is specifically created to validate AURA's Stage 4 RAG pipeline.
